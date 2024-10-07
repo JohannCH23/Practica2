@@ -1,4 +1,4 @@
-<title> #Practica 2 - Johan Erazo </title>
+<h3> #Practica 2 - Johan Erazo </h3>
  
 <h2> 1-Comproba que a tes a imaxe httpd.</h2>
 Para comprobar que temos unha imaxe, executamos o comando (docker images | grep httpd). Con isto veremos se temos a imaxe específica.
